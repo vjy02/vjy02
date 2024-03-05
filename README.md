@@ -5,7 +5,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-I'm Victor Yoshida, a software engineer currently studying CS @ The University of Melbourne. 
+Hi I'm Victor, a software engineer currently studying CS @ The University of Melbourne. 
 
 Currently learning web focused technologies with a keen interested on full stack or front end focused development.
 
