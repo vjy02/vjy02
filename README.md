@@ -5,7 +5,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Hi I'm Victor, a software engineer @ Elentar and currently studying CS @ The University of Melbourne. 
+Hi I'm Victor, a software engineer @ Elentar and studying CS @ The University of Melbourne. 
 
 Currently focused on web technologies with a keen interested on full stack and front end focused development.
 
